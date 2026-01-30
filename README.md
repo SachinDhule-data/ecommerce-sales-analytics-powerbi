@@ -23,7 +23,7 @@ The dashboard is designed with an executive-first approach and focuses on revenu
 - Orders
 - Products
 - Order_items
-- 
+  
 Data covers:
 - Sales transactions
 - Customer demographics
