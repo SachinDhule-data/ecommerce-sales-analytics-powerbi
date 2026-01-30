@@ -31,6 +31,8 @@ Data covers:
 - Revenue and quantity metrics
 
 ---
+## 🗂 Data Model
+![Data Model](screenshots/data_model.png)
 
 ## 📈 Dashboard Pages
 
