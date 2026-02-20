@@ -42,7 +42,7 @@ Data covers:
 - Revenue by city and product
 - Payment method analysis
 
-![Page 1](screenshots/ecommerce_dashboard (1).pdf)
+![Page 1](screenshots/page1_sales_performance_business_overview.png)
 
 ---
 
