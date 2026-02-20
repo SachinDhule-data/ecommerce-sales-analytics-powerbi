@@ -52,7 +52,7 @@ Data covers:
 - Repeat vs new customers
 - Customer and product insights
 
-![Page 2](screenshots/page2_product_customer.png)
+![Page 2](screenshots/page2_product_customer.png.jpeg)
 
 ---
 
@@ -62,7 +62,7 @@ Data covers:
 - Revenue lost due to cancellations and returns
 - Operational risk insights
 
-![Page 3](screenshots/page3_operations_leakage.png)
+![Page 3](screenshots/page3_operations_leakage.png.jpeg)
 
 ---
 
